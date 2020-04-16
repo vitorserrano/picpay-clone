@@ -27,6 +27,10 @@
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
 
+### :mortar_board: Quem ministrou?
+
+- As aulas foram ministradas pelo mestre [Mateus Silva](https://github.com/maateusilva) em videos no seu canal no youtube.
+
 ### :memo: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
