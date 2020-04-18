@@ -7,6 +7,9 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Como Usar](#-como-usar)
+- [Como Contribuir](#-como-contribuir)
+- [Quem Ministrou](#-quem-ministrou)
 
 ## :bookmark: Sobre 
 
