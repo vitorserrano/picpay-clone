@@ -3,7 +3,7 @@
     <img alt="PicPay" title="#picPay" width="120px" src=".github/Clone.png" />
 </h4>
 
-# Indice
+# Índice
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
