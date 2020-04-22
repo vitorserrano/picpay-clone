@@ -13,7 +13,7 @@
 
 ## :bookmark: Sobre 
 
-Com a finalidade de estudar React Native, cirei uma Clonagem da <b>interface</b> do aplicativo do <b>PicPay</b> a partir de um video.
+Com a finalidade de estudar alguns conceitos do React Native, criei uma Clonagem da <b>interface</b> do aplicativo do <b>PicPay</b> seguindo [videoaulas](https://www.youtube.com/watch?v=0CraBZHejKI&t=1s) do <b>Youtube</b>.
 
 ---
 
