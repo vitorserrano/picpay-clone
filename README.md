@@ -5,6 +5,8 @@
 
 # Índice
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0dde7022faf446f9ac76b92df6ec768)](https://app.codacy.com/manual/vitorserrano/picpay-clone?utm_source=github.com&utm_medium=referral&utm_content=vitorserrano/picpay-clone&utm_campaign=Badge_Grade_Dashboard)
+
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Usar](#-como-usar)
