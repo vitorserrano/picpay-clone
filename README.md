@@ -5,18 +5,17 @@
 
 # Índice
 
-- [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como Usar](#-como-usar)
-- [Como Contribuir](#-como-contribuir)
-- [Quem Ministrou](#-quem-ministrou)
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Usar](#como-usar)
+- [Como Contribuir](#como-contribuir)
 
+<a id="sobre"></a>
 ## :bookmark: Sobre 
 
 Com a finalidade de estudar alguns conceitos do React Native, criei uma Clonagem da <b>interface</b> do aplicativo do <b>PicPay</b> seguindo [videoaulas](https://www.youtube.com/watch?v=0CraBZHejKI&t=1s) do <b>Youtube</b>.
 
----
-
+<a id="tecnologias-utilizadas"></a>
 ## :rocket: Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
@@ -26,16 +25,14 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Expo](https://expo.io/)
 - [Styled Components](https://styled-components.com/)
 
----
-
+<a id="como-usar"></a>
 ## :fire: Como usar
 
 - Clone esse repositório: `git clone https://github.com/vitorserrano/picpay-clone.git`
 - Instale as dependências: `npm install` 
 - Start a aplicação: `npm start`
 
----
-
+<a id="como-contribuir"></a>
 ## :recycle: Como contribuir
 
 - Faça um Fork desse repositório,
@@ -47,7 +44,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :mortar_board: Quem ministrou?
 
-- As aulas foram ministradas pelo mestre [Mateus Silva](https://github.com/maateusilva) em videos no seu canal no youtube.
+- As aulas foram ministradas pelo mestre [Mateus Silva](https://github.com/maateusilva) em videos no seu canal do youtube.
 
 ---
 
