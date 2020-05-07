@@ -25,6 +25,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Expo](https://expo.io/)
 - [Styled Components](https://styled-components.com/)
 
+## :heavy_check_mark: Resultado
+
+<img alt="Home" title="#home" width="250px" src=".github/Home.jpeg">
+
 <a id="como-usar"></a>
 ## :fire: Como usar
 
@@ -40,13 +44,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
 
----
-
 ## :mortar_board: Quem ministrou?
 
 - As aulas foram ministradas pelo mestre [Mateus Silva](https://github.com/maateusilva) em videos no seu canal do youtube.
-
----
 
 ## :memo: License
 
